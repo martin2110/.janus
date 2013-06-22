@@ -1,4 +1,3 @@
 .janus
 ======
-
-janus addons
+my janus addons
